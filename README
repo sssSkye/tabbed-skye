@@ -1,0 +1,15 @@
+tabbed - generic tabbed interface
+=================================
+This is a modified and patched version of tabbed by Skye.
+Credits to patches can be fount in the diff files which are included in the patched/ folder.
+
+Requirements
+------------
+In order to build tabbed you need the Xlib header files.
+
+Installation
+------------
+Installation is as simple as the following:
+
+    make clean install
+
